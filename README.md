@@ -1,6 +1,3 @@
-**Here’s a fully updated GitHub profile README for your agency “Kodevio-Limited,” aligned with the official website content. It highlights your AI-powered software development focus, services, workflow, and case studies.**
-
----
 
 # 🌐 Kodevio-Limited
 
@@ -44,20 +41,6 @@ We deliver solutions that drive measurable impact:
 
 ---
 
-## 🏆 Case Studies
-Some of our successful projects:
-
-- **Luxe Living Interior Studio** → Premium Squarespace portfolio.  
-- **Kodevio Wix CMS Platform** → High-performance IT solutions.  
-- **IT Services & Solutions** → Modern WordPress corporate platform.  
-- **Fashion Boutique** → Elegant WooCommerce e-commerce.  
-- **WordPress Commerce Hub** → Multi-vendor WooCommerce integration.  
-- **Premium Fashion Store** → Luxury fashion e-commerce experience.  
-
-👉 View All Projects [(kodevio.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Fwww.kodevio.com%2Fcase-studies")
-
----
-
 ## 📬 Connect With Us
 - 🌍 Website: [kodevio.com](https://www.kodevio.com)  
 - 📧 Email: contact@kodevio.com [(kodevio.com in Bing)](https://www.bing.com/search?q="mailto%3Acontact%40kodevio.com")  
@@ -67,3 +50,4 @@ Some of our successful projects:
 ---
 
 ✨ *Where AI meets artistic design — Kodevio crafts digital experiences that redefine industry standards.*  
+
