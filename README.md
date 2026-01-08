@@ -1,53 +1,84 @@
+# Kodevio-Limited
+> Engineering the future of digital — AI-powered software development & strategic innovation.
 
-# 🌐 Kodevio-Limited
-
-> **Engineering the future of digital — AI-powered software development & strategic innovation.**
-
----
-
-## 👋 About Us
-Kodevio-Limited is more than a development agency — we are your **technical partners in growth**.  
-We help forward-thinking businesses transform their digital presence with **boundary-pushing web solutions** and **strategic innovation**.
+[🌐 Website](https://www.kodevio.com) · [✉️ contact@kodevio.com](mailto:contact@kodevio.com) · 📞 +880 1516-785969
 
 ---
 
-## 🛠️ Capabilities
-We deliver solutions that drive measurable impact:
-
-- **Web Development** → High-performance websites with cutting-edge frameworks.  
-- **App Development** → Native & cross-platform mobile apps.  
-- **AI Integration** → Enhance user experience & automate processes.  
-- **UI/UX Design** → Aesthetic interfaces with intuitive workflows.  
-- **Growth SEO** → Data-driven optimization strategies.  
-- **Data Analytics** → Enterprise-grade visualization & reporting.  
+✨ Kodevio-Limited combines design, engineering and AI to build fast, delightful digital products that scale. We partner with growth-minded teams to turn ideas into production-ready experiences.
 
 ---
 
-## 📈 Our Workflow — *The Kodevio Way*
-1. **Discovery** → Analyze your business DNA.  
-2. **Strategy** → Map user journeys & technical blueprints.  
-3. **Execution** → Agile development with modern tech stacks.  
-4. **Launch** → Optimize & deploy seamlessly to market.  
+## Table of contents
+- [What we do](#what-we-do)
+- [Capabilities](#capabilities)
+- [How we work](#how-we-work)
+- [Why choose Kodevio](#why-choose-kodevio)
+- [Tech & tools](#tech--tools)
+- [Contact](#contact)
 
 ---
 
-## 💡 Why Choose Kodevio?
-- ⚡ **Ultra Performance** → Websites load in under 1s.  
-- 🎨 **Brand Distinction** → Custom designs that stand out.  
-- 👩‍💻 **Elite Expertise** → Senior engineers & creative directors.  
-- 🚀 **Agile Speed** → Iterative development for faster go-to-market.  
-- 🤝 **99% Client Satisfaction** → Trusted by 2,000+ teams worldwide.  
-- 📞 **24/7 Premium Support** → Always available for clients.  
+## What we do
+We deliver end-to-end product engineering and digital transformation services — from strategy and design to engineering, AI integration and growth optimization. Our focus is on performance, simplicity, and measurable impact.
 
 ---
 
-## 📬 Connect With Us
-- 🌍 Website: [kodevio.com](https://www.kodevio.com)  
-- 📧 Email: contact@kodevio.com [(kodevio.com in Bing)](https://www.bing.com/search?q="mailto%3Acontact%40kodevio.com")  
-- 📞 Phone: **+880 1516-785969**  
-- 📍 Address: 51/A/10 Afrozaloy, West Rajabazar Panthapath, Dhaka, Bangladesh  
+## Capabilities
+- Web Development — High-performance, accessible websites & web apps using modern frameworks.  
+- Mobile Apps — Native & cross-platform apps with beautiful UX and reliable performance.  
+- AI Integration — User-facing AI features and backend automation to accelerate workflows.  
+- UI/UX Design — Research-driven interfaces and product design that delight users.  
+- Growth SEO — Data-led search strategies to increase visibility and conversions.  
+- Data Analytics — Dashboarding, instrumentation, and insights for smarter decisions.
 
 ---
 
-✨ *Where AI meets artistic design — Kodevio crafts digital experiences that redefine industry standards.*  
+## How we work — The Kodevio Way
+1. Discovery — Understand business goals, users and success metrics.  
+2. Strategy — Define product roadmap, architecture and measurable milestones.  
+3. Execution — Agile development cycles, continuous delivery, and iterative design.  
+4. Launch & Optimize — Smooth deployments, analytics-driven improvements, and ongoing support.
 
+We emphasize clear scope, fast feedback loops, and production-quality code.
+
+---
+
+## Why choose Kodevio
+- ⚡ Ultra Performance — Optimized for speed and reliability.  
+- 🎨 Brand Distinction — Custom, polished designs to elevate your presence.  
+- 👩‍💻 Senior Talent — Experienced engineers and product designers.  
+- 🚀 Fast Iteration — Agile teams focused on shipping value quickly.  
+- 🤝 Proven Trust — 99% client satisfaction; trusted by 2,000+ teams (company data).  
+- 📞 24/7 Premium Support — Dedicated support for mission-critical projects.
+
+---
+
+## Tech & tools (examples)
+React · Next.js · Node.js · TypeScript · Python · TensorFlow / PyTorch · Docker · Kubernetes · PostgreSQL · Redis · GraphQL · Figma · Vercel · AWS
+
+---
+
+## Example engagements
+- Startups: MVPs and rapid prototyping to validate product-market fit.  
+- SMBs: Replatforming, performance improvements, and feature buildouts.  
+- Enterprises: Scalable systems, integrations, and AI/automation pilots.
+
+---
+
+## Contact
+Start a conversation — we’ll respond quickly and help you scope the right solution.
+
+- Website: https://www.kodevio.com  
+- Email: contact@kodevio.com  
+- Phone: +880 1516-785969  
+- Address: 51/A/10 Afrozaloy, West Rajabazar Panthapath, Dhaka, Bangladesh
+
+---
+
+If you'd like, I can:
+- Add a visual header (SVG/cover image) and badges,
+- Include a Clients & Case Studies section with logos and short case summaries,
+- Add a `CONTRIBUTING.md` or developer guide for open-source collaboration.
+
+Let's iterate on tone, length, or add visuals — tell me what you'd prefer next.
